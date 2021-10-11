@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Theshadowofmaster
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Theshadowofmaster/Theshadowofmaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I want to be a good programmer but im not so good atleast i know a little bit i have a xbox a ipad and a pc sometimes i try to create games but after the game just become borring and i delete it so im seeing some videos for how to be a programmer 
